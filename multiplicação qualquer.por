@@ -8,10 +8,10 @@ programa
 		contador = 0
 		
 
-		escreva("Digite um número")
+		escreva("Digite um nÃºmero")
 		leia(numero)
 
-		escreva("por qual número quer multiplicar?")
+		escreva("por qual nÃºmero quer multiplicar?")
 		leia(limite)
 		
 		faca{
@@ -27,8 +27,8 @@ programa
 
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 203; 
  * @PONTOS-DE-PARADA = ;
