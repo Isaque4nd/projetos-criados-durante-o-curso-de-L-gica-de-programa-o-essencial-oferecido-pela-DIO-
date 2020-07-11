@@ -5,30 +5,30 @@ programa
 		real VendasJaneiro, VendasFervereiro, VendasMarco, VendasAbril, media
 		cadeia funcionario
 		
-		escreva("Digite o nome do funcionário")
+		escreva("Digite o nome do funcionÃ¡rio")
 		leia(funcionario)
-		escreva("Digite o número de vendas em Janeiro")
+		escreva("Digite o nÃºmero de vendas em Janeiro")
 		leia(VendasJaneiro)
-		escreva("Digite o número de vendas em Fervereiro")
+		escreva("Digite o nÃºmero de vendas em Fervereiro")
 		leia(VendasFervereiro)
-		escreva("Digite o número de vendas em Marco")
+		escreva("Digite o nÃºmero de vendas em Marco")
 		leia(VendasMarco)
-		escreva("Digite o número de vendas em abril")
+		escreva("Digite o nÃºmero de vendas em abril")
 		leia(VendasAbril)
 
 		media = (VendasJaneiro+VendasFervereiro+VendasMarco+VendasAbril)/4
 
-		escreva("A média de vendas de " + funcionario + " é: " + media)
+		escreva("A mÃ©dia de vendas de " + funcionario + " Ã©: " + media)
 
-		se(media>=57){escreva("\n" + " Você continua na empresa")}
+		se(media>=57){escreva("\n" + " VocÃª continua na empresa")}
 
-		senao{escreva("\n" +" Você está demitido")}
+		senao{escreva("\n" +" VocÃª estÃ¡ demitido")}
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 645; 
  * @PONTOS-DE-PARADA = ;
